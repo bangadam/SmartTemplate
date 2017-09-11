@@ -90,11 +90,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Dew Drop
+                                    Juara I Enghlish Debate
                                 </a>
                                 </h4>
             <p>
-              Redesigne UI Concept
+              STKIP Jombang gudep 01283
             </p>
           </figcaption>
         </figure>
@@ -113,11 +113,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Bottle Mockup
+                                    Juara II Implementasi budaya baca
                                 </a>
                                 </h4>
             <p>
-              Lorem ipsum dolor sit.
+              Sekertariat Daerah Sidoarjo
             </p>
           </figcaption>
         </figure>
@@ -136,11 +136,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Table Design
+                                  Juara I Carving Tingkat Provinsi
                                 </a>
                                 </h4>
             <p>
-              Lorem ipsum dolor sit amet.
+              Dinas Pendidikan Kab.Sidoarjo
             </p>
           </figcaption>
         </figure>
@@ -159,11 +159,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Make Up elements
+                                    Juara III Lomba PBB
                                 </a>
                                 </h4>
             <p>
-              Lorem ipsum dolor.
+              SMAN 1 WARU
             </p>
           </figcaption>
         </figure>
@@ -182,11 +182,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Shoping Bag Concept
+                                Juara II story teking
                                 </a>
                                 </h4>
             <p>
-              Lorem ipsum dolor.
+              STKIP Jombang gudep 01283
             </p>
           </figcaption>
         </figure>
@@ -205,11 +205,11 @@
           <figcaption>
             <h4>
                                 <a href="#">
-                                    Caramel Bottle
+                                Juara I lomba pramuka penegak VIII
                                 </a>
                                 </h4>
             <p>
-              Lorem ipsum dolor.
+              STKIP Jombang gudep 01283
             </p>
           </figcaption>
         </figure>

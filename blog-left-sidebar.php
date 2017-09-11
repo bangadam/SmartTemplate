@@ -42,11 +42,11 @@
                                         <img class="img-responsive" src="images/author/author-bg.jpg">
                                         <div class="author-body text-center">
                                             <div class="author-img">
-                                                <img src="images/avater-2.jpg">
+                                                <img src="images/kepala-sekolah.png">
                                             </div>
                                             <div class="author-bio">
-                                                <h3>Jonathon Andrew</h3>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt magnam asperiores consectetur, corporis ullam impedit.</p>
+                                                <h3>Kepala Sekolah</h3>
+                                                <p>Orang yang tak mau merasakan derita menuntut ilmu sejenak saja, Akan ditimpa hinanya kebodohan sepanjang hidupnya.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -54,19 +54,19 @@
                                         <h3 class="widget-head">Categories</h3>
                                         <ul>
                                             <li>
-                                                <a href="">Audio</a> <span class="badge">1</span>
+                                                <a href="">Siswa</a> <span class="badge">9</span>
                                             </li>
                                             <li>
-                                                <a href="">Gallery</a> <span class="badge">2</span>
+                                                <a href="">Berita</a> <span class="badge">2</span>
                                             </li>
                                             <li>
-                                                <a href="">Image</a> <span class="badge">4</span>
+                                                <a href="">Pengumuman</a> <span class="badge">4</span>
                                             </li>
                                             <li>
-                                                <a href="">Standard</a> <span class="badge">2</span>
+                                                <a href="">Prestasi</a> <span class="badge">2</span>
                                             </li>
                                             <li>
-                                                <a href="">Status</a> <span class="badge">3</span>
+                                                <a href="">Sekolah</a> <span class="badge">3</span>
                                             </li>
                                         </ul>
                                     </div>
@@ -75,24 +75,16 @@
                                         <h3>Recent Posts</h3>
                                         <ul>
                                             <li>
-                                                <a href="#">Corporate meeting turns into a photoshooting.</a><br>
+                                                <a href="#">PENGUMUMAN HASIL SELEKSI MUTASI PESERTA DIDIK SEMESTER GASAL TAHUN PELAJARAN 2017/2018</a><br>
                                                 <time>16 May, 2015</time>
                                             </li>
                                             <li>
-                                                <a href="#">Statistics,analysis. The key to succes.</a><br>
+                                                <a href="#">Informasi Jadwal Seleksi Mutasi Masuk Peserta Didik Tahun 2017</a><br>
                                                 <time>15 May, 2015</time>
                                             </li>
                                             <li>
-                                                <a href="#">Blog post without image, only text.</a><br>
+                                                <a href="#">SURAT EDARAN MPLS CPDB 2017/2018</a><br>
                                                 <time>14 May, 2015</time>
-                                            </li>
-                                            <li>
-                                                <a href="#">Blog post with audio player. Share your creations.</a><br>
-                                                <time>14 May, 2015</time>
-                                            </li>
-                                            <li>
-                                                <a href="#">Blog post with classic Youtbube player.</a><br>
-                                                <time>12 May, 2015</time>
                                             </li>
                                         </ul>
                                     </div>
@@ -101,56 +93,68 @@
                             <div class="col-md-8">
                                 <article class="wow fadeInDown" data-wow-delay=".3s" data-wow-duration="500ms">
                                     <div class="blog-post-image">
-                                        <a href="post-fullwidth.html"><img class="img-responsive" src="images/blog/post-1.jpg" alt="" /></a>
+                                        <a href="post-fullwidth.html"><img class="img-responsive" src="http://sman11jakarta.sch.id/images/galeri/626de5efc23bd989e5fccd8c87fe7b83.jpg" alt="" /></a>
                                     </div>
                                     <div class="blog-content">
                                         <h2 class="blogpost-title">
-                                        <a href="post-fullwidth.html">Space shouldn’t be the final frontier</a>
+                                        <a href="post-fullwidth.html">PENGUMUMAN HASIL SELEKSI MUTASI PESERTA DIDIK SEMESTER GASAL TAHUN PELAJARAN 2017/2018</a>
                                         </h2>
                                         <div class="blog-meta">
                                             <span>Dec 11, 2020</span>
                                             <span>by <a href="">Admin</a></span>
                                             <span><a href="">business</a>,<a href="">people</a></span>
                                         </div>
-                                        <p>Ultrices posuere cubilia curae curabitur sit amet tortor ut massa commodo. Vestibulum consectetur euismod malesuada tincidunt cum. Sed ullamcorper dignissim consectetur ut tincidunt eros sed sapien consectetur dictum. Pellentesques sed volutpat ante, cursus port. Praesent mi magna, penatibus et magniseget dis parturient montes sed quia consequuntur magni dolores eos qui ratione.
+                                        <p>Pengumuman hasil seleksi mutasi peserta didik semester gasal tahun pelajaran 2017/ 2018
                                         </p>
-                                        <a href="single-post.html" class="btn btn-dafault btn-details">Continue Reading</a>
+                                        <a href="single-post.php" class="btn btn-dafault btn-details">Baca Selengkapnya</a>
                                     </div>
                                 </article>
                                 <article class="wow fadeInDown" data-wow-delay=".5s" data-wow-duration="500ms">
                                     <div class="blog-post-image">
-                                        <a href="post-fullwidth.html"><img class="img-responsive" src="images/blog/post-2.jpg" alt="" /></a>
+                                        <a href="post-fullwidth.html"><img class="img-responsive" src="http://sman11jakarta.sch.id/images/galeri/6e0a2c5f4a225093ac852b32756dfbfb.JPG" alt="" /></a>
                                     </div>
                                     <div class="blog-content">
                                         <h2 class="blogpost-title">
-                                        <a href="post-fullwidth.html">Space shouldn’t be the final frontier</a>
+                                        <a href="post-fullwidth.html">Informasi Jadwal Seleksi Mutasi Masuk Peserta Didik Tahun 2017</a>
                                         </h2>
                                         <div class="blog-meta">
                                             <span>Dec 11, 2020</span>
                                             <span>by <a href="">Admin</a></span>
                                             <span><a href="">business</a>,<a href="">people</a></span>
                                         </div>
-                                        <p>Ultrices posuere cubilia curae curabitur sit amet tortor ut massa commodo. Vestibulum consectetur euismod malesuada tincidunt cum. Sed ullamcorper dignissim consectetur ut tincidunt eros sed sapien consectetur dictum. Pellentesques sed volutpat ante, cursus port. Praesent mi magna, penatibus et magniseget dis parturient montes sed quia consequuntur magni dolores eos qui ratione.
+                                        <p>Pelaksanaan seleksi / ujian mutasi peserta didik kelas XI dan XII Semester Gasal Tahun Pelajaran 2017/2018 akan dilaksanakan pada : Selasa, 11 Juli 2017 Pk. 09.00 - 12.00 WIB.
+
+Adapun mata pelajaran yang diujikan adalah :
+
+1. Jurusan MIPA : Matematika, Bahasa Indonesia, Bahasa Inggris, Kimia, Fisika, Biologi
+
+2. Jurusan IPS : Matematika, Bahasa Indonesia, Bahasa Inggris, Geografi, Sosiologi, Ekonomi
+
+Ujian dilaksanakan dengan PBT ( Paper Based Test ) atau menggunakan kertas
+
+di harapkan siswa membawa pensil 2B , penghapus dan papan jalan
+
+Mohon hadir 15 menit sebelum pelaksanaan ujian berlangsung, dengan mengenakan pakaian seragam SMA (putuh abu-abu)
                                         </p>
-                                        <a href="single-post.html" class="btn btn-dafault btn-details">Continue Reading</a>
+                                        <a href="single-post.php" class="btn btn-dafault btn-details">Baca Selengkapnya</a>
                                     </div>
                                 </article>
                                 <article class="wow fadeInDown" data-wow-delay=".7s" data-wow-duration="500ms">
                                     <div class="blog-post-image">
-                                        <a href="post-fullwidth.html"><img class="img-responsive" src="images/blog/post-3.jpg" alt="" /></a>
+                                        <a href="post-fullwidth.html"><img class="img-responsive" src="http://sman11jakarta.sch.id/images/galeri/57b144bbf2cdccabe86b6647f366e9e1.PNG" alt="" /></a>
                                     </div>
                                     <div class="blog-content">
                                         <h2 class="blogpost-title">
-                                        <a href="post-fullwidth.html">Space shouldn’t be the final frontier</a>
+                                        <a href="post-fullwidth.html">SURAT EDARAN MPLS CPDB 2017/2018</a>
                                         </h2>
                                         <div class="blog-meta">
                                             <span>Dec 11, 2020</span>
                                             <span>by <a href="">Admin</a></span>
                                             <span><a href="">business</a>,<a href="">people</a></span>
                                         </div>
-                                        <p>Ultrices posuere cubilia curae curabitur sit amet tortor ut massa commodo. Vestibulum consectetur euismod malesuada tincidunt cum. Sed ullamcorper dignissim consectetur ut tincidunt eros sed sapien consectetur dictum. Pellentesques sed volutpat ante, cursus port. Praesent mi magna, penatibus et magniseget dis parturient montes sed quia consequuntur magni dolores eos qui ratione.
+                                        <p>Sehubungan dengan telah di terimanya calon peserta didik baru tahap 1 tahun pelajaran 2017/2018 maka SMA N 11 JAKARTA mengumumkan informasi mengenai MPLS ( Masa Pengenalan Lingkungan Sekolah ) sebagai berikut :
                                         </p>
-                                        <a href="single-post.html" class="btn btn-dafault btn-details">Continue Reading</a>
+                                        <a href="single-post.php" class="btn btn-dafault btn-details">Baca Selengkapnya</a>
                                     </div>
                                 </article>
                             </div>

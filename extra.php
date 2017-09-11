@@ -41,7 +41,7 @@
                                   </a>
                                   </h4>
               <p>
-                Redesigne UI Concept
+                Extrakulikuler Karate
               </p>
             </figcaption>
           </figure>
@@ -64,7 +64,7 @@
                                   </a>
                                   </h4>
               <p>
-                Lorem ipsum dolor sit.
+              Extrakulikuler Paskibra
               </p>
             </figcaption>
           </figure>
@@ -87,7 +87,7 @@
                                   </a>
                                   </h4>
               <p>
-                Lorem ipsum dolor sit amet.
+                Extrakulikuler Basket
               </p>
             </figcaption>
           </figure>
@@ -110,7 +110,7 @@
                                   </a>
                                   </h4>
               <p>
-                Lorem ipsum dolor.
+                Extrakulikuler Karate
               </p>
             </figcaption>
           </figure>
@@ -133,7 +133,7 @@
                                   </a>
                                   </h4>
               <p>
-                Lorem ipsum dolor.
+                Extrakulikuler Paskibra
               </p>
             </figcaption>
           </figure>
@@ -156,7 +156,7 @@
                                   </a>
                                   </h4>
               <p>
-                Lorem ipsum dolor.
+                Extrakulikuler Basket
               </p>
             </figcaption>
           </figure>

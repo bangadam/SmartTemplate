@@ -25,10 +25,14 @@
   <div class="row" style="margin-top: 52px">
     <div>
       <ul class="tata-tertib">
-          <?php for ($i=1; $i <= 10; $i++) { ?>
-            <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</li>
-          <?php } ?>
-        </ul>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Sepuluh menit sebelum jam pertama siswa sudah hadir di sekolah</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Keterlambatan lebih dari 10 menit tidak diperbolehkan masuk / mengikuti pelajaran dan akan diberikan ijin masuk pada jam berikutnya setelah mendapat surat ijin dari guru Piket dan Petugas STKS ; sambil menunggu pergantian jam, siswa mendapat tugas khusus oleh tim STKS dan BK</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Apabila siswa tidak masuk sekolah karena sakit , atau ijin harus mengirimkan surat ijin yang sah dari orang tua / wali murid pada hari itu juga atau lewat telpon sekolah.</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Jumlah hari hadir selama satu Semester sekurang-kurangnya 95% hari efektif sekolah , dan apabila tidak terpenuhi maka dinyatakan tidak memenuhi syarat untuk penentuan kenaikan klas.</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Apabila siswa akan meninggalkan sekolah sebelum jam belajar sekolah berakhir oleh karena sakit atau ijin keperluan lain, harus minta ijin kepada semua guru Bidang Studi yang ditinggalkan, dan baru boleh meninggalkan sekolah setelah mendapat surat ijin meninggalkan sekolah dari guru Piket dan Petugas STKS.</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Wajib mengikuti semua kegiatan belajar mengajar sejak jam pertama hingga jam terakhir , serta pulang secara bersama-sama setelah tanda bel pelajaran terakhir dibunyikan.</li>
+        <li class="wow fadeInUp" data-wow-duration="1500ms" style="padding: 20px 15px;margin-bottom: 35px;box-shadow: 3px 5px 10px #aaa;">Bagi siswa putri tidak berdandan secara mencolok dan tidak mengenakan perhiasan secara berlebihan.</li>
+      </ul>
     </div>
   </div>
 </section>
